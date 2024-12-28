@@ -1,6 +1,9 @@
-# public_assets
+<img src="https://github.com/cortexalt/public_assets/blob/ea2ce79b9c26d60f52cc712ae454b820cde37eed/logo/cortexalt_wordmark_for_github.png?raw=true" alt="Cortexalt logo" width="200"/>
 
-<img src="https://github.com/cortexalt/public_assets/blob/9b650804be6bc20e932b7842e3bf4ae804a15081/logo/cortexalt_wordmark_for_github.png?raw=true" alt="Cortexalt logo" width="200"/>
+<br>
 
+---
+
+<br>
 
 Public assets to use across Cortexalt projects.
